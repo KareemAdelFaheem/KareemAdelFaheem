@@ -1,5 +1,3 @@
-<h1 align="center">Hi 👋, I'm Kareem adel</h1>
-<h3 align="center">I am a passionate mobile app developer specializing in creating intuitive and user-friendly applications. My journey in the mobile application track has been interesting to me to collaborate in large mobile apps, allowing me to explore various frameworks and technologies.</h3>
 
 - 🔭 I’m currently working on [Coffee corner(Ecommerce)](https://github.com/KareemAdelFaheem/E-commerce-app)
 
