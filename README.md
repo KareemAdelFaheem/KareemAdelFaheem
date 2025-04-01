@@ -1,15 +1,12 @@
+Mobile application developer Using Flutter
 
-- 🔭 I’m currently working on [Coffee corner(Ecommerce)](https://github.com/KareemAdelFaheem/E-commerce-app)
+-  All of my projects are available at [https://github.com/KareemAdelFaheem](https://github.com/KareemAdelFaheem)
 
-- 🌱 I’m currently learning **Animations**
+-  Ask me about **Animations, Bloc, Restful APIs, Firebase integration, SQLite**
 
-- 👨‍💻 All of my projects are available at [https://github.com/KareemAdelFaheem](https://github.com/KareemAdelFaheem)
+-  How to reach me **pi.kareem14@gmail.com**
 
-- 💬 Ask me about **Animations, Bloc, Restful APIs, Firebase integration, SQLite**
-
-- 📫 How to reach me **pi.kareem14@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1cFDOcPEYXhVIxZIfJ2ac8udNqPS3lQOc/view?usp=drive_link](https://drive.google.com/file/d/1cFDOcPEYXhVIxZIfJ2ac8udNqPS3lQOc/view?usp=drive_link)
+-  Know about my experiences [https://drive.google.com/file/d/1cFDOcPEYXhVIxZIfJ2ac8udNqPS3lQOc/view?usp=drive_link](https://drive.google.com/file/d/1cFDOcPEYXhVIxZIfJ2ac8udNqPS3lQOc/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
